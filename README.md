@@ -3,7 +3,7 @@
 > Real-time weather insights powered by WeatherAPI & Power BI with JSON and DAX
 
 ## 🔗 Live Preview
-- ![Dashboard Screenshot](./assets/dashboard-preview.png)
+- ![Dashboard Screenshot](Assets_/dashboard-preview.png)
 
 ## 📌 Project Features
 - Real-time API connection using `Web.Contents`
@@ -30,5 +30,3 @@
 - `/assets/` – Dashboard preview images & icons
 - `/docs/` – DAX logic and setup guide
 
-## 📘 License
-MIT or your preferred license
