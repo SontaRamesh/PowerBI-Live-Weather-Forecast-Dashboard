@@ -27,6 +27,6 @@
 
 ## 📂 Files
 - `Live_Weather_Dashboard.pbix` – Main Power BI report
-- `/assets/` – Dashboard preview images & icons
-- `/docs/` – DAX logic and setup guide
+- `/Assets_/` – Dashboard preview images & icons
+- `/Documentation/` – DAX logic and setup guide
 
