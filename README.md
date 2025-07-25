@@ -26,7 +26,7 @@
 - Power BI, DAX, Power Query, WeatherAPI, JSON
 
 ## 📂 Files
-- `Live_Weather_Dashboard.pbix` – Main Power BI report
+- [Live_Weather_Dashboard.pbix](Live_Weather_Dashboard.pbix) – Main Power BI report
 - [Assets_](Assets_) – Dashboard preview images & icons
 - [Documentation](Documentation) – DAX logic and setup guide
 
